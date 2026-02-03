@@ -1,0 +1,9 @@
+# Exécutables
+*.out
+bienvenue
+
+# Fichiers objets
+*.o
+
+# Fichiers temporaires
+*~
