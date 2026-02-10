@@ -5,4 +5,3 @@ int main()
 afficherBienvenue();
 return 0;
 }
-
